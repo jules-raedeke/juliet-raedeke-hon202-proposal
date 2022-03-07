@@ -1,8 +1,14 @@
 body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: navy;
-  margin-left: 20px;
+  margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+           }
+      .hero-image {
+        background-image: url("https://user-images.githubusercontent.com/100152321/156952378-da0ae65c-f718-48a8-a155-9d08ba73b018.jpg");
+        background-color: #cccccc;
+        height: 768px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        position: relative;
 }
